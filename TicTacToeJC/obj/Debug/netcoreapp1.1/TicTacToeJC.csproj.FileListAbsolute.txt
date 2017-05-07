@@ -1,0 +1,9 @@
+C:\Projects\CSharp2017 Learning\TicTacToeJC\TicTacToeJC\bin\Debug\netcoreapp1.1\TicTacToeJC.deps.json
+C:\Projects\CSharp2017 Learning\TicTacToeJC\TicTacToeJC\bin\Debug\netcoreapp1.1\TicTacToeJC.runtimeconfig.json
+C:\Projects\CSharp2017 Learning\TicTacToeJC\TicTacToeJC\bin\Debug\netcoreapp1.1\TicTacToeJC.runtimeconfig.dev.json
+C:\Projects\CSharp2017 Learning\TicTacToeJC\TicTacToeJC\bin\Debug\netcoreapp1.1\TicTacToeJC.dll
+C:\Projects\CSharp2017 Learning\TicTacToeJC\TicTacToeJC\bin\Debug\netcoreapp1.1\TicTacToeJC.pdb
+C:\Projects\CSharp2017 Learning\TicTacToeJC\TicTacToeJC\obj\Debug\netcoreapp1.1\TicTacToeJC.csprojResolveAssemblyReference.cache
+C:\Projects\CSharp2017 Learning\TicTacToeJC\TicTacToeJC\obj\Debug\netcoreapp1.1\TicTacToeJC.AssemblyInfo.cs
+C:\Projects\CSharp2017 Learning\TicTacToeJC\TicTacToeJC\obj\Debug\netcoreapp1.1\TicTacToeJC.dll
+C:\Projects\CSharp2017 Learning\TicTacToeJC\TicTacToeJC\obj\Debug\netcoreapp1.1\TicTacToeJC.pdb
